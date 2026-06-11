@@ -22,7 +22,7 @@ SVM with a linear kernel performed best, suggesting the data is approximately li
 
 1. Clone the repo
 2. Install dependencies: `pip install pandas numpy scikit-learn matplotlib seaborn`
-3. Open `Final_COE292Project.ipynb` and run all cells
+3. Open `Mobile-Price-Classification.ipynb` and run all cells
 
 ## Course
 
